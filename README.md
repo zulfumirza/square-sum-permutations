@@ -2,7 +2,10 @@
 
 Code accompanying the paper
 
-> Z. M. Gür, *On permutations π of {1,…,n} with i+π(i) a perfect square* (2026).
+> Z. M. Gür, *On permutations π of {1,…,n} with i+π(i) a perfect square*, preprint (2026), Zenodo.
+> [doi:10.5281/zenodo.24334782](https://doi.org/10.5281/zenodo.24334782)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.24334782.svg)](https://doi.org/10.5281/zenodo.24334782)
 
 Let a(n) be the number of permutations π of {1,…,n} with i+π(i) a perfect square for every i
 ([OEIS A095986](https://oeis.org/A095986)), and B(n) the number of *block solutions*
@@ -36,4 +39,4 @@ See the section "Use of AI tools" in the paper.
 The code in this repository is licensed under the GNU General Public License v3.0 or later (see `LICENSE`).
 Copyright (C) 2026 Zülfü Mirza Gür.
 
-The paper itself is not part of this repository; it is distributed separately via arXiv.
+The paper itself is not part of this repository; it is available on Zenodo (doi:10.5281/zenodo.24334782).
